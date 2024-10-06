@@ -57,5 +57,4 @@ Enhanced security features like two-factor authentication.
 Contributing
 If you'd like to contribute or suggest any improvements, feel free to reach out.
 
-License
-This project is open-source and free to use for educational purposes.
+
